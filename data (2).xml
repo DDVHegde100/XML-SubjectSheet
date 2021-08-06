@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<subjects>
+	<subject>
+		<name>AP Physics</name>
+		<description>
+   Advanced Placement Physics 1, along with AP Physics 2, is a year-long AP course whose first exam was given in 2015.
+   </description>
+		<semester>2</semester>
+	</subject>
+	<subject>
+		<name>AP Calc. AB</name>
+		<description>
+    Advanced Placement Calculus (also known as AP Calculus, AP Calc, or simply AB / BC) is a set of two distinct Advanced Placement calculus courses
+    </description>
+		<semester>1</semester>
+	</subject>
+	<subject>
+		<name>AP Calc. BC</name>
+		<description>
+    Advanced Placement Calculus (also known as AP Calculus, AP Calc, or simply AB / BC) is a set of two distinct Advanced Placement calculus courses
+    </description>
+		<semester>1</semester>
+	</subject>
+	<subject>
+		<name>AP Biology</name>
+		<description>
+    Advanced Placement Biology is an Advanced Placement biology course and exam offered by the College Board in the United States.
+    </description>
+		<semester>2</semester>
+	</subject>
+</subjects>
